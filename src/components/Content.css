@@ -1,0 +1,20 @@
+
+img{
+    width:400px;
+    margin-top: 20px;
+    padding: auto;
+  
+    }
+    .head{
+display: flex;
+float: right;
+margin-right: 320px;
+margin-top:40px;
+
+    }
+    .Content >h1{
+
+/*font-family: 'Lato', sans-serif;*/
+font-family: 'Montserrat', sans-serif;
+color:#FC8019;
+    }
